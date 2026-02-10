@@ -1,4 +1,4 @@
-# Hi there, I'm AboMagdy! 👋
+# Hi there, I'm Mohamed Allam! 👋
 
 ## 📊 Data Analyst & Power BI Expert
 
@@ -21,7 +21,7 @@ I specialize in transforming complex data into actionable insights through inter
 | **Financial Analysis** | P&L reporting and financial health monitoring | [Explore](https://github.com/AboMagdy/Financial_Analysis_Project) |
 | **Netflix Dashboard** | Content analysis and viewership trends | [Explore](https://github.com/AboMagdy/Netflix_Project) |
 | **Supply Chain** | Logistics optimization and inventory management | [Explore](https://github.com/AboMagdy/Supply_Chain_Analysis_Project) |
-| **CRM System** | Customer relationship and pipeline management | [Explore](https://github.com/AboMagdy/CRM_System_Project) |
+| **CRM System** | Customer relationship and pipeline management | [Explore](https://github.com/AboMagdy/CRM_Project) |
 | **Uber Analytics** | Ride-sharing data patterns and geographical analysis | [Explore](https://github.com/AboMagdy/Uber_Project) |
 | **YouTube Trending** | Viral content metrics and engagement analysis | [Explore](https://github.com/AboMagdy/Youtube_Trending_Project) |
 | **Manufacturing** | Production efficiency and quality control tracking | [Explore](https://github.com/AboMagdy/Manufacturing_Analysis_Project) |
@@ -32,5 +32,10 @@ I specialize in transforming complex data into actionable insights through inter
 ---
 
 ### 📫 Connect with me:
+- **LinkedIn:** [Mohamed Allam](https://www.linkedin.com/in/mohamed-allam-862747a6)
+- **Email:** [mmagdy180@gmail.com](mailto:mmagdy180@gmail.com)
+- **Location:** Saudi Arabia
 - **GitHub:** [AboMagdy](https://github.com/AboMagdy)
-- *Feel free to reach out for collaborations or data-related inquiries!*
+
+---
+*Feel free to reach out for collaborations or data-related inquiries!*
